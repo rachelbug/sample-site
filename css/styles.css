@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  color: #FFF;
+}
+.main-header {
+  text-align: center;
+  background: #003360;
+  height: 50px;
+}
+.main-header a {
+  color: #cccccc;
+}
+.logo {
+  text-align: center;
+}
+.main {
+  background: #85e085;
+  height: 150px;
+}
+.second {
+  background: #00e6e6;
+  height: 150px;
+}
+.extra {
+  background: #ff4d4d;
+  height: 150px;
+}
+.main-footer {
+  background: #95A5A6;
+  height: 50px;
+}
+
+.main-header,
+.main-footer,
+.col {
+  margin-bottom: 15px;
+  padding: 2.15%;
+  border-radius: 5px;
+}
